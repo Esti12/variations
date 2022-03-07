@@ -1,0 +1,56 @@
+body {
+    background-color: rgba(255, 179, 64, 0.452);
+    background-image: url("01.png") ;
+    background-repeat: repeat;
+}
+em {
+    background-color: rgb(231, 182, 108);
+    color: rgb(247, 170, 28);
+    
+}
+
+strong {
+    font-weight: bold;
+}
+
+p {
+    text-transform: lowercase;
+    text-align: left;
+    font-family: "Arial" ;
+    font-size:medium;
+    text-transform: capitalize;
+
+}
+
+p.a {
+
+    font-family: Arial, Helvetica, sans-serif; 
+    line-height:normal;
+    text-transform:lowercase;
+    letter-spacing: 2cm;
+    font-style:italic;
+}
+
+p.b{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 0.2cm;
+
+   
+}
+
+h1 {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+h2 {
+ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ font-weight: 700;
+ font-style: inherit;
+text-transform: lowercase;
+ letter-spacing: 2cm;
+padding-left: 100px;
+
+}
+

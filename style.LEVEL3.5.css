@@ -1,0 +1,85 @@
+body {
+    background-color: rgba(225, 226, 197, 0.274);
+    background-image: url("01.png") ;
+    background-repeat: repeat;
+}
+em {
+    background-color: rgba(255, 212, 249, 0.493);
+    color: rgb(255, 55, 212);
+    
+}
+
+p {
+   color:rgb(184, 200, 253)
+
+}
+p.ex1{
+    display: inline;
+}
+
+h1 {
+    position: relative;
+    left: 400px;
+    top:3px;
+    width: 350px;
+    border:rgb(163, 193, 218) 
+
+}
+
+h3{
+    color: rgb(136, 109, 255);
+    background-color: rgba(253, 240, 181, 0.295);
+    position:absolute;
+    left: 400px;
+    top: 120px;
+
+} 
+
+h2{
+    color: rgb(255, 189, 109);
+    background-color: rgba(253, 240, 181, 0.295);
+    position:absolute;
+    left: 100px;
+
+}
+
+h4 {
+    color:rgb(28, 26, 150);
+    background-color: rgba(157, 194, 224, 0.336); 
+    position:absolute;
+    left: 100px;
+    top: 200px;
+
+}
+
+h5 {
+    color:rgb(153, 91, 253);
+    background-color: rgba(213, 157, 224, 0.336); 
+    position:absolute;
+    left: 440px;
+    top: 770px; 
+}
+
+.highlight {
+    border:rgb(163, 193, 218) 
+
+}
+
+div {
+    background-color: beige;
+    width: 400px;
+    border-left: 300px;
+    position: relative;
+    left: 200px;
+    float: right;
+    top: 120px;
+
+}
+
+
+
+
+
+
+
+

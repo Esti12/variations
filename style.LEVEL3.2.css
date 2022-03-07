@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(255, 255, 255);
+    background-image: url("01.png") ;
+    background-repeat: repeat;
+}
+em {
+    background-color: rgb(25, 100, 187);
+    color: rgb(199, 188, 43);
+    
+}
+
+
+
+p {
+    background-color: rgb(184, 200, 253);
+    padding-left: 100px;
+    position: relative;
+    left: 200px;
+   
+    
+}
+
+h1 {
+    background-color: lightblue;
+}
+
+.highlight {
+    border:rgb(163, 193, 218)
+
+}
+div {
+    background-color: beige;
+    width: 400px;
+    border-left: 300px;
+    position: relative;
+    left: 200px;
+
+}
+
+h1 {
+    position: relative;
+    left: 200px;
+    top:3px;
+    width: 350px;
+   
+
+}
+
+h5 {
+    position:relative;
+    left: 300px;
+
+    border: 300px;
+
+}

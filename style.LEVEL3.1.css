@@ -1,0 +1,92 @@
+body {
+    background-color: rgb(255, 255, 255);
+    background-image: url("01.png") ;
+    background-repeat: repeat;
+}
+em {
+    background-color: rgb(25, 100, 187);
+    color: rgb(199, 188, 43);
+    
+}
+
+
+
+p {
+    background-color: rgb(169, 216, 216);
+    padding: 10px 50px 10px;
+    
+}
+
+h1 {
+    background-color: lightblue;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    margin: 5px 320px 6px  ;
+    
+}
+
+h2 {
+ 
+ background-color: yellow;
+ 
+ padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    margin: 10px 260px 10px  ;
+}
+
+h3 {
+    background-color: yellow;
+ 
+    padding-top: 10px;
+       padding-right: 20px;
+       padding-bottom: 10px;
+       padding-left: 50px;
+       margin: 10px 260px 10px  ;
+
+}
+h4 {
+    background-color: yellow;
+ 
+ padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    margin: 10px 260px 10px  ;
+
+}
+
+h5 {
+    background-color: yellow;
+ 
+ padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    margin: 10px 260px 10px  ;
+
+}
+h6 {
+    background-color: yellow;
+ 
+ padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    margin: 10px 260px 10px  ;
+}
+.highlight {
+    border:rgb(163, 193, 218)
+
+}
+div {
+    padding-top: 10px;
+    padding-right: 220px;
+    padding-bottom: 10px;
+    padding-left: 100px;
+
+}
+

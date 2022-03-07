@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(255, 255, 255);
+    background-image: url("01.png") ;
+    background-repeat: repeat;
+    margin:0;
+    padding:0;
+
+}
+em {
+    background-color: rgb(25, 100, 187);
+    color: rgb(199, 188, 43);
+    
+}
+@font-face {
+    font-family: myFirstFont;
+    src: url(Arkhip_font.otf);
+}
+p {
+
+    padding-top: 50px;
+    text-align: center;
+    
+}
+strong {
+    font-weight: bold;
+}
+
+
+
+h1 {
+
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+h2 {
+    font-size: 1.5em;
+    font-family: serif;
+   
+    text-align: center;
+    animation: effect 2s linear infinite;
+}
+
+
+div {
+   
+width: 400px;
+height: 200px;
+background-color: antiquewhite;
+position:relative;
+animation-name: example;
+animation-duration:6s;
+animation-direction: reverse;
+align-items: center ;
+}
+
+@keyframes example {
+    0% {background-color: rgb(112, 177, 177); left:0px;top:0px; }
+    25% {background-color: rgb(73, 109, 185);left:200px; top:0px; }
+    50% {background-color: rgb(109, 98, 207);left: 200px; top:200px;}
+    75% {background-color: rgb(165, 39, 123);left:0px; top:200px;}
+    100% {background-color: rgb(112, 177, 177);left:0px; top:0px;}
+}
